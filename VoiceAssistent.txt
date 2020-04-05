@@ -1,0 +1,11 @@
+		Voice Assistant | Using Python
+
+
+## Part-1: Using Pyttsx3 for Speaking
+
+1. pip install pyttsx3
+2. pip install pywin32
+
+
+## Part-2: How to use speech recognization 
+
