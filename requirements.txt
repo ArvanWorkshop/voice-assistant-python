@@ -1,0 +1,3 @@
+pyaudio
+pyttsx3 == 2.87
+speech_recognition
